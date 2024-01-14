@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white" />
   <img src="https://img.shields.io/badge/JSP-6DB33F?style=flat&logo=JSP&logoColor=white" />
   <img src="https://img.shields.io/badge/Mybatis-E21A2C?style=flat&logo=Mybatis&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-005F0F?style=flat&logo=JPA&logoColor=white" />
 </div>
 <br>
 <div align="center">
