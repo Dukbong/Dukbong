@@ -25,19 +25,9 @@
 </div>
 <br>
 <div align="center">
-  <p>🧰Tools🧰</p>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
-  <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/STS-6DB33F?style=flat&logo=STS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-</div>
-<br>
-<div align="center">
   <p>🧰Team Collaboration Tool🧰</p>
-  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/ERD Cloud-E8E8E8?style=flat&logo=ERD Cloud&logoColor=white" />
 </div>
 <br><br><br>
 <div align="center">
