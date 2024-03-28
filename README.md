@@ -25,13 +25,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
 </div>
-<br><br><br>
+<br><br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dukbong&layout=compact"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dukbong&show_icons=true">
-</div>
-<br><br><br>
-<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dukbong&layout=compact"><br>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Dukbong&show_icons=true"> -->
   
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jkmo2961)](https://solved.ac/jkmo2961)
 </div>
