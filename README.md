@@ -1,3 +1,7 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/dukbong?pet-id=1" width="1000" height="120"/>
+</a>
+
 <div align="center">
   <h3>📚 Tech Stack 📚</h3>
   <p>🎆Platforms & Languages🎆</p>
